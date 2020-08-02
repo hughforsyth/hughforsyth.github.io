@@ -12,10 +12,12 @@ categories:
 twitter_text: 'Put your twitter description here.'
 ---
 
-This is some simple markup. It does the things you'd expect
+This is some simple mark up. It does the things you'd expect
 
 * Bullet 1
 * Bullet 2
 
 ##Heading 2
 *Bold* and **Italic**
+
+Interestingly I had to rename this page as hello-world was clashing with the project site
